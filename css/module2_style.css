@@ -36,6 +36,8 @@ p{
   clear:both;
   display:inline;
   margin-top:1em;
+  padding-left:1%;
+  padding-right:1%;
 }
 div1, div2, div3{
   float:right;
